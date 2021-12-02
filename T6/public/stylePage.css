@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(36, 36, 238);
+}
+
+.main {
+    width: 200px;
+    height: 400px;
+    background-color: white;
+    margin: 20px auto 0;
+}
+
+.sidebare {
+
+    width: 100%;
+    height: 50px;
+    background-color: chartreuse;
+    padding-left: 50px;
+    padding-top: 10px
+}
+
+
+.middle {
+    width: 100%;
+    height: 300px;
+
+}
+
+.m1 {
+
+    width: 100%;
+    height: 40px;
+
+    padding-bottom: 20px;
+    padding-right: 10px;
+    display: flex;
+}
+
+.m2 {
+
+    width: 100%;
+    height: 40px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    display: flex;
+
+}
+
+
+.m3 {
+
+    width: 100%;
+    height: 40px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    display: flex;
+}
+
+
+.m4 {
+
+    width: 100%;
+    height: 40px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    display: flex;
+
+}
+
+
+
+
+
+
+.footer {
+    width: 100%;
+    height: 50px;
+    background-color: chartreuse;
+    padding-left: 50px;
+    padding-top: 10px
+}
+
+.m1:hover {
+
+    background-color: rgb(106, 106, 201);
+}
+
+.m2:hover {
+
+    background-color: rgb(106, 106, 201);
+}
+
+.m3:hover {
+
+    background-color: rgb(106, 106, 201);
+}
+
+.m4:hover {
+
+    background-color: rgb(106, 106, 201);
+}
+
+.p1 {
+    color: darkgray;
+}
+
+
+.active {
+    color: blue;
+}
